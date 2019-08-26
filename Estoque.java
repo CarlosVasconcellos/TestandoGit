@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+Editei isso no Master linha 6
+    
 package sistemadeestoques;
 
 import java.util.ArrayList;
