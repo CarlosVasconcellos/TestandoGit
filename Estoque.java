@@ -18,7 +18,7 @@ import java.util.ArrayList;
 public class Estoque {
     // public float faturamento;
     public int unidadesVendidas;
-    public ArrayList<ProdutosNaLoja> listaProdutos;
+    public ArrayList<ProdutosNaLoja> listaProdutos; //cria uma lista de produtos
     
     Estoque () {
         listaProdutos = new ArrayList<>();
